@@ -14,7 +14,7 @@ class SimpleTest {
 	
 	@Test
 	void sum2() {
-		int sum = 12 + 1;
+		int sum = 10 + 1;
         assertEquals(13, sum);
     }
 }
