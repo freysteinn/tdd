@@ -12,4 +12,9 @@ class SimpleTest {
         assertEquals(5, sum);
     }
 	
+	@Test
+	void sum2() {
+		int sum = 12 + 1;
+        assertEquals(13, sum);
+    }
 }
